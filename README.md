@@ -1,1 +1,2 @@
-# pizza_sales_analysis
+This project aims to analyze and visualize key business insights from a dataset using a combination of MySQL, Excel and Power BI. The objective is to leverage these tools to perform data cleaning, analysis and visualization, presenting a comprehensive understanding of the dataset for the decision-making purpose. It involves examining various aspects of pizza orders to understand customer behavior, identify trends, and optimize business strategy.
+
